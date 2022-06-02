@@ -1,2 +1,2 @@
 # FinTech-CaseStudy2
-FinTech-CaseStudy2
+>inTech-CaseStudy2
